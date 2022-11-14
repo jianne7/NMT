@@ -1,0 +1,4 @@
+random_seed: 42
+batch_size: 4 # 2
+#ngpu: 2 # 1
+
